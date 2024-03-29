@@ -9,5 +9,5 @@ while (guess != random) {
 console.log('number matched congratulations');
 console.log('you took ' + count + " count");
 
-//run this in your browwsers console
+//run this in your browser's console
 
